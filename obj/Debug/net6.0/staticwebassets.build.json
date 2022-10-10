@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3qD4Xq7zGJbMQ53rkZyOZCqyDnHFKkz+3wc9Eoczk0Q=",
+  "Source": "bookmyshow_api",
+  "BasePath": "_content/bookmyshow_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
